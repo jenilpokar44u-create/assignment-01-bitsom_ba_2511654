@@ -1,4 +1,4 @@
-ETL Decisions:
+## ETL Decisions:
 
 When inspecting the raw `retail_transactions.csv` file, it was clear that pushing the data directly into a reporting warehouse would cause our analytical queries to fail or return inaccurate group totals. Here are the three main transformations I applied during the ETL pipeline before loading the final tables:
 
