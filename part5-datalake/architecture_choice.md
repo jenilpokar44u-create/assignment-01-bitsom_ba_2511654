@@ -1,4 +1,4 @@
-Architecture Recommendation:
+## Architecture Recommendation:
 
 For a fast-growing food delivery startup dealing with such a wide variety of data formats, I would strongly recommend implementing a **Data Lakehouse** architecture. 
 
