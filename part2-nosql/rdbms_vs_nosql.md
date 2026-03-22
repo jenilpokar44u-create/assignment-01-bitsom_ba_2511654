@@ -1,4 +1,4 @@
-Database Recommendation:
+## Database Recommendation:
 
 For a healthcare startup building a patient management system, I would absolutely recommend MySQL over MongoDB. The choice comes down to the nature of medical data and the strict guarantees of ACID properties versus the flexibility of BASE.
 
