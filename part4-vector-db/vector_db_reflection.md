@@ -1,4 +1,4 @@
-Vector DB Use Case:
+## Vector DB Use Case:
 
 A traditional keyword-based search would absolutely not suffice for a law firm dealing with 500-page contracts. Keyword searches are extremely rigid because they rely entirely on exact string matching. If a lawyer types the question, "What are the financial penalties for canceling the deal early?", a traditional relational database or simple search engine will strictly look for the specific words "penalties," "canceling," and "deal." 
 
